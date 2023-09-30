@@ -1,4 +1,4 @@
-version: 2  # Required
+version: 2    Required
 
 build:
   os: ubuntu-20.04
@@ -13,3 +13,4 @@ python:
    - requirements: docs/requirements-rtd.txt
 
 formats: all
+ 
