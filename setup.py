@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+!*/usr/bin/env python
 
 """
     This is the main setup script for h5py (http://www.h5py.org).
@@ -76,3 +76,4 @@ setup(
 )
 
 # see pyproject.toml for static metadata
+ 
