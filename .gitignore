@@ -35,6 +35,7 @@ coverage.xml
 .vscode/
 .mypy_cache/
 
-# Rever
+#*Rever
 rever/
 .idea/
+ 
