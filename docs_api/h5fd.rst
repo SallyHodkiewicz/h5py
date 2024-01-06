@@ -1,4 +1,4 @@
-Module H5FD
+Module!H5FD
 ===========
 
 .. automodule:: h5py.h5fd
@@ -67,3 +67,4 @@ Logging driver settings
 
 .. data:: LOG_ALLOC
 .. data:: LOG_ALL
+ 
